@@ -16,4 +16,5 @@ tarkoituksena on tehhdä myös rauhallinen taustamusiikki ja visuaalisen ilme, j
 
 Sain idean peliin perinteisestä puisesta labyrinttipelistä, jossa palloa liikutetaan kahvoista kääntelemällä:
 [esimerkki](https://www.wowtasticuk.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/D/R/DRW9737_1.jpg)
+Omassa peli-ideassani pallo ei voi pudota reikiin, sillä haluan pelin tunnelman olevan rauhallinen.
 
