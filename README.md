@@ -6,7 +6,7 @@ Alusta: kosketusnäyttö tabletti (Android/Ipad)
 
 Projektin tarkoituksena on tehdä pieni peli, joka tulee vanhuksille suunnattuun joulukalenteriin. Peli on digitaalinen ja alustana toimii kosketusnäytöllinen tabletti. peli toteutetaan Construct 2 ojelmalla.  
 
-#h4 Pelin idea
+#### Pelin idea
 
 Pelin ideana on navigoida pallo labyrintin läpi maaliin. Pallo saadaan liikkumaan kallistelemalla tablettia.
 Pelissä saa sitä enemmän "zen" pisteitä, mitä hitaammin pallo liikkuu. Pelin laajuus tulee olemaan noin viisi eri kenttää. 
